@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Hi, I'm Daniel Novais  
 
-<!--
-**danielnovais-tech/danielnovais-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Undergraduate Student at UniCEUB – Centro Universitário de Brasília  
+🌐 Open Source Developer | AI for Precision Agriculture & Rural Connectivity  
+🚀 Exploring Starlink + Edge Computing to empower rural communities  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Current Projects
+
+### 🌍 [Rural Connectivity Mapper 2026](https://github.com/danielnovais-tech/Rural-Connectivity-Mapper-2026)  
+Mapping and analyzing rural connectivity gaps using Starlink integration.  
+- Focus: Identify underserved regions and propose AI-driven solutions.  
+- Impact: Reduce digital divide in agriculture.  
+
+### ⚙️ [Simulador de Arquitetura Híbrida com Edge Computing para Agro Remoto](https://github.com/danielnovais-tech/Simulador-de-Arquitetura-H-brida-com-Edge-Computing-para-Agro-Remoto)  
+Simulation framework for hybrid architectures combining cloud + edge computing.  
+- Focus: Optimize resource allocation for remote farms.  
+- Impact: Enable real-time decision-making in disconnected environments.  
+
+### 🌾 [AgriX Boost 2026](https://github.com/danielnovais-tech/AgriX-Boost-2026)  
+AI-powered toolkit to boost agricultural productivity.  
+- Focus: Crop health prediction, yield optimization, and smart farming.  
+- Impact: Empower farmers with accessible AI tools.  
+
+---
+
+## 🌐 Mission
+> *“Bringing AI-driven precision agriculture and high-speed connectivity to rural communities worldwide.”*  
+
+- Reduce inequality in access to technology.  
+- Empower farmers with open-source tools.  
+- Showcase how **Starlink connectivity** enables innovation in agriculture.  
+
+---
+
+## 📈 GitHub Stats
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielnovais-tech&show_icons=true&theme=radical)
+
+---
+
+
+## 📫 Connect with me
+- 🌐 [Patreon – Support my work](https://patreon.com/danielnovaistech)  
+- 💼 [LinkedIn](https://linkedin.com/in/novais-tech)  
+- 📝 [DEV.to Articles](https://dev.to/danielnovaistech)  
+- 📧 Email: daniel.nos@outlook.com  
+
+---
+
+⭐️ *If you like my projects, consider supporting them on Patreon or giving a star on GitHub!*  
