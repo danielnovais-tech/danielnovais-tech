@@ -1,5 +1,8 @@
 # 👋 Hi, I'm Daniel Novais  
 
+![Mission Banner](https://img.shields.io/badge/Bridging%20the%20Digital%20Divide-Starlink%20Powered%20Agriculture-blueviolet?style=for-the-badge&logo=satellite) 
+![Focus](https://img.shields.io/badge/Focus-AI%20%7C%20Agro%20%7C%20Edge%20Computing-brightgreen?style=for-the-badge&logo=leaf)
+
 🎓 Undergraduate Student at UniCEUB – Centro Universitário de Brasília  
 🌐 Open Source Developer | AI for Precision Agriculture & Rural Connectivity  
 🚀 Exploring Starlink + Edge Computing to empower rural communities  
@@ -35,7 +38,9 @@ AI-powered toolkit to boost agricultural productivity.
 ---
 
 ## 📈 GitHub Stats
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielnovais-tech&show_icons=true&theme=radical)
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielnovais-tech&show_icons=true&theme=radical) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielnovais-tech&layout=compact&theme=radical) 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=danielnovais-tech&theme=radical)
 
 ---
 
