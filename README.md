@@ -29,6 +29,40 @@ AI-powered toolkit to boost agricultural productivity.
 
 ---
 
+## 📂 All Repositories
+
+### 🚀 Original Projects
+
+| Repository | Description | Language |
+|:---|:---|:---:|
+| [TELECOM-TOWER-POWER](https://github.com/danielnovais-tech/TELECOM-TOWER-POWER) | Python-based simulation of core logic behind the "Mapa das Torres" platform — tower database, signal strength estimation, PtP analysis, LOS with Fresnel zone, 4G/5G bands | Python |
+| [Rural-Connectivity-Mapper](https://github.com/danielnovais-tech/Rural-Connectivity-Mapper) | Python-based tool to map and analyze rural internet connectivity in Brazil, aligned with Starlink's 2026 roadmap | Python |
+| [AL-5G-AE](https://github.com/danielnovais-tech/AL-5G-AE) | Command-line assistant acting as a specialized SLM for 5G Core troubleshooting | Python |
+| [21st-century-s-Starlink-Framework](https://github.com/danielnovais-tech/21st-century-s-Starlink-Framework) | The Framework Starlink Urgently Needs — concrete frameworks before the system hardens | HTML |
+| [Cryogenic-agritech](https://github.com/danielnovais-tech/Cryogenic-agritech) | Scaling Starlink's Neuromorphic AI through propulsion and thermal innovations | Python |
+| [Space-Debris-RL-Python-Script-](https://github.com/danielnovais-tech/Space-Debris-RL-Python-Script-) | RL-based satellite maneuvering to avoid space debris — optimizing fuel use for constellations like Starlink | Python |
+| [SENTINEL-X](https://github.com/danielnovais-tech/SENTINEL-X) | Adaptive recovery for space autonomy — defining interplanetary reliability | Python |
+| [AI-Driven-for-Starlink-in-the-Amazon](https://github.com/danielnovais-tech/AI-Driven-for-Starlink-in-the-Amazon) | DRL and hybrid DNNs optimizing Starlink's real-time beamforming over the Amazon for telemedicine and environmental monitoring | Python |
+| [digital-transform-kit](https://github.com/danielnovais-tech/digital-transform-kit) | Ready-to-use scripts and structured guides for faster digital transformation | — |
+| [Simulador-de-Arquitetura-H-brida-com-Edge-Computing-para-Agro-Remoto](https://github.com/danielnovais-tech/Simulador-de-Arquitetura-H-brida-com-Edge-Computing-para-Agro-Remoto) | Simula rede híbrida, edge computing resiliente e testes de validação | Python |
+| [secure-it-infra-Starlink](https://github.com/danielnovais-tech/secure-it-infra-Starlink) | Security solutions for managed enterprise infrastructures supporting Starlink | Python |
+| [starlink_connectivity_tools.py](https://github.com/danielnovais-tech/starlink_connectivity_tools.py) | Starlink connectivity tools | Python |
+
+### 🍴 Forked / Contributed
+
+| Repository | Description | Language |
+|:---|:---|:---:|
+| [copilot-cli](https://github.com/danielnovais-tech/copilot-cli) | GitHub Copilot CLI — Copilot coding agent in your terminal | Python |
+| [copilot-sdk](https://github.com/danielnovais-tech/copilot-sdk) | Multi-platform SDK for integrating GitHub Copilot Agent into apps and services | — |
+| [cli](https://github.com/danielnovais-tech/cli) | BLACKBOX CLI for running Multi-Agents locally | TypeScript |
+| [k8s-snap](https://github.com/danielnovais-tech/k8s-snap) | Canonical Kubernetes operated by Snaps and Charms | — |
+| [docker-snap](https://github.com/danielnovais-tech/docker-snap) | Docker Snap package | — |
+| [WACT](https://github.com/danielnovais-tech/WACT) | Reasoning about world change to infer what happened | — |
+| [sonarlint-vscode](https://github.com/danielnovais-tech/sonarlint-vscode) | SonarLint for Visual Studio Code | — |
+| [pylance-release](https://github.com/danielnovais-tech/pylance-release) | Documentation and issues for Pylance | — |
+
+---
+
 ## 🌐 Mission
 > *“Bringing AI-driven precision agriculture and high-speed connectivity to rural communities worldwide.”*  
 
