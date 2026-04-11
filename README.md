@@ -1,5 +1,18 @@
 # 👋 Hi, I'm Daniel Novais  
 
+<div align="center">
+
+```
+┌──────────────────────────────────────────────────────────────────────────────┐
+│                                                                              │
+│   𝗗𝗮𝘁𝗮 • 𝗔𝗜→ 𝗠𝗟→ 𝗥𝗟 • 𝗜𝗼𝗧→ 𝗦𝗺𝗮𝗿𝘁 𝗔𝗚𝗥𝗢 • 𝗖𝗹𝗼𝘂𝗱 𝗖𝗼𝗺𝗽𝘂𝘁𝗶𝗻𝗴 • 𝗦𝘁𝗮𝗿𝗹𝗶𝗻𝗸 • 𝗟𝗔𝗧𝗔𝗠   │
+│                        + 𝗣𝘆, 𝗕𝘀𝗵, 𝗞𝟴𝘀, 𝗟𝗻𝘅                                │
+│                                                                              │
+└──────────────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
 ![Mission Banner](https://img.shields.io/badge/Bridging%20the%20Digital%20Divide-Starlink%20Powered%20Agriculture-blueviolet?style=for-the-badge&logo=satellite) 
 ![Focus](https://img.shields.io/badge/Focus-AI%20%7C%20Agro%20%7C%20Edge%20Computing-brightgreen?style=for-the-badge&logo=leaf)
 
