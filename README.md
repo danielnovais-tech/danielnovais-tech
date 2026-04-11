@@ -147,9 +147,14 @@
 ---
 
 ## 📈 GitHub Stats
-![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielnovais-tech&show_icons=true&theme=radical) 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielnovais-tech&layout=compact&theme=radical) 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=danielnovais-tech&theme=radical)
+
+<div align="center">
+
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielnovais-tech&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielnovais-tech&layout=compact&theme=radical&langs_count=8)
+![GitHub Streak](https://streak-stats.demolab.com/?user=danielnovais-tech&theme=radical)
+
+</div>
 
 ---
 
