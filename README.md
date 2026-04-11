@@ -13,19 +13,61 @@
 ## 🔭 Current Projects
 
 ### 🌍 [Rural Connectivity Mapper 2026](https://github.com/danielnovais-tech/Rural-Connectivity-Mapper-2026)  
-Mapping and analyzing rural connectivity gaps using Starlink integration.  
-- Focus: Identify underserved regions and propose AI-driven solutions.  
-- Impact: Reduce digital divide in agriculture.  
+```
+╔══════════════════════════════════════════════════════════════╗
+║  ▓▓▓ R.U.R.A.L  //  C.O.N.N.E.C.T  //  M.A.P.P.E.R ▓▓▓  ║
+║  ┌──────────────────────────────────────────────────────┐   ║
+║  │  >> STARLINK UPLINK ................... [████████]  │   ║
+║  │  >> COVERAGE SCAN ..................... [████████]  │   ║
+║  │  >> DEAD ZONE DETECTION ............... [████████]  │   ║
+║  │  >> AI PROPOSAL ENGINE ................ [████████]  │   ║
+║  │  >> DIGITAL DIVIDE INDEX .............. [████████]  │   ║
+║  └──────────────────────────────────────────────────────┘   ║
+║  [ STATUS: SCANNING ]  //  [ MODE: FIELD_RECON ]           ║
+╚══════════════════════════════════════════════════════════════╝
+```
+> *"No signal? No problem. We map the void — then we fill it."*  
+- `> FOCUS:` Identify underserved regions and propose AI-driven connectivity solutions.  
+- `> IMPACT:` Eliminate the digital divide in agriculture via Starlink integration.  
+- `> STACK:` Python · GIS · Starlink API · Data Visualization  
 
 ### ⚙️ [Simulador de Arquitetura Híbrida com Edge Computing para Agro Remoto](https://github.com/danielnovais-tech/Simulador-de-Arquitetura-H-brida-com-Edge-Computing-para-Agro-Remoto)  
-Simulation framework for hybrid architectures combining cloud + edge computing.  
-- Focus: Optimize resource allocation for remote farms.  
-- Impact: Enable real-time decision-making in disconnected environments.  
+```
+╔══════════════════════════════════════════════════════════════╗
+║  ▓▓▓ E.D.G.E  //  H.Y.B.R.I.D  //  S.I.M.U.L.A.T.O.R ▓▓▓║
+║  ┌──────────────────────────────────────────────────────┐   ║
+║  │  >> CLOUD NODE ........................ [████████]  │   ║
+║  │  >> EDGE NODE ......................... [████████]  │   ║
+║  │  >> RESILIENCE TEST ................... [████████]  │   ║
+║  │  >> LATENCY OPTIMIZER ................. [████████]  │   ║
+║  │  >> FAILOVER PROTOCOL ................. [████████]  │   ║
+║  └──────────────────────────────────────────────────────┘   ║
+║  [ STATUS: SIMULATING ]  //  [ MODE: HYBRID_MESH ]         ║
+╚══════════════════════════════════════════════════════════════╝
+```
+> *"When the cloud is 500km away, you build the brain at the edge."*  
+- `> FOCUS:` Optimize resource allocation for remote farms with cloud + edge hybrid architectures.  
+- `> IMPACT:` Real-time decision-making in disconnected environments.  
+- `> STACK:` Python · Edge Computing · Network Simulation · Resilience Testing  
 
 ### 🌾 [AgriX Boost 2026](https://github.com/danielnovais-tech/AgriX-Boost-2026)  
-AI-powered toolkit to boost agricultural productivity.  
-- Focus: Crop health prediction, yield optimization, and smart farming.  
-- Impact: Empower farmers with accessible AI tools.  
+```
+╔══════════════════════════════════════════════════════════════╗
+║  ▓▓▓ A.G.R.I.X  //  B.O.O.S.T  //  2.0.2.6 ▓▓▓           ║
+║  ┌──────────────────────────────────────────────────────┐   ║
+║  │  >> CROP HEALTH NEURAL NET ............ [████████]  │   ║
+║  │  >> YIELD PREDICTOR ................... [████████]  │   ║
+║  │  >> SMART IRRIGATION .................. [████████]  │   ║
+║  │  >> SOIL ANALYTICS .................... [████████]  │   ║
+║  │  >> FARMER DASHBOARD .................. [████████]  │   ║
+║  └──────────────────────────────────────────────────────┘   ║
+║  [ STATUS: HARVESTING DATA ]  //  [ MODE: PRECISION_AG ]   ║
+╚══════════════════════════════════════════════════════════════╝
+```
+> *"The fields talk in data — AgriX makes sure the farmer listens."*  
+- `> FOCUS:` Crop health prediction, yield optimization, and smart farming.  
+- `> IMPACT:` Empower farmers with accessible, open-source AI tools.  
+- `> STACK:` Python · Machine Learning · Precision Agriculture · IoT  
 
 ### 📡 [TELECOM-TOWER-POWER](https://github.com/danielnovais-tech/TELECOM-TOWER-POWER)  
 ```
