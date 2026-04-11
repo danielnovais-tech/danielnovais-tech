@@ -1,0 +1,66 @@
+name: "CodeQL Analysis"
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+  schedule:
+    - cron: '0 0 * * 0'
+
+jobs:
+  detect:
+    runs-on: ubuntu-latest
+    outputs:
+      matrix: ${{ steps.set-matrix.outputs.matrix }}
+    steps:
+      - uses: actions/checkout@v4
+      - id: set-matrix
+        shell: bash
+        run: |
+          langs=()
+
+          # GitHub Actions workflow scanning
+          langs+=("actions")
+
+          # Detect JS/TS
+          if ls **/*.js **/*.jsx **/*.ts **/*.tsx 1>/dev/null 2>&1; then
+            langs+=("javascript")
+          fi
+
+          # Detect Python
+          if ls **/*.py 1>/dev/null 2>&1; then
+            langs+=("python")
+          fi
+
+          # Build JSON for matrix
+          json=$(printf '%s\n' "${langs[@]}" | jq -R . | jq -cs '{language: .}')
+          echo "matrix=$json" >> "$GITHUB_OUTPUT"
+
+  analyze:
+    name: Analyze
+    needs: detect
+    runs-on: ubuntu-latest
+    permissions:
+      actions: read
+      contents: read
+      security-events: write
+
+    strategy:
+      fail-fast: false
+      matrix: ${{ fromJSON(needs.detect.outputs.matrix) }}
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Initialize CodeQL
+        uses: github/codeql-action/init@v3
+        with:
+          languages: ${{ matrix.language }}
+
+      # Only needed for compiled languages; for JS/Python/Actions you can omit.
+      # - name: Autobuild
+      #   uses: github/codeql-action/autobuild@v3
+
+      - name: Perform CodeQL Analysis
+        uses: github/codeql-action/analyze@v3
