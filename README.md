@@ -27,6 +27,25 @@ AI-powered toolkit to boost agricultural productivity.
 - Focus: Crop health prediction, yield optimization, and smart farming.  
 - Impact: Empower farmers with accessible AI tools.  
 
+### 📡 [TELECOM-TOWER-POWER](https://github.com/danielnovais-tech/TELECOM-TOWER-POWER)  
+```
+╔══════════════════════════════════════════════════════════════╗
+║  ▓▓▓ T.E.L.E.C.O.M  //  T.O.W.E.R  //  P.O.W.E.R ▓▓▓   ║
+║  ┌──────────────────────────────────────────────────────┐   ║
+║  │  >> SIGNAL GRID ONLINE .................. [████████] │   ║
+║  │  >> TOWER DB LOADED .................... [████████] │   ║
+║  │  >> FRESNEL ZONE CALC .................. [████████] │   ║
+║  │  >> 4G/5G BAND SCANNER ................. [████████] │   ║
+║  │  >> POINT-TO-POINT LINK ................ [████████] │   ║
+║  └──────────────────────────────────────────────────────┘   ║
+║  [ STATUS: OPERATIONAL ]  //  [ MODE: SAAS_BACKEND ]       ║
+╚══════════════════════════════════════════════════════════════╝
+```
+> *"Jacking into the signal grid — mapping every tower, every frequency, every dead zone."*  
+- `> FOCUS:` Tower database, signal strength estimation, PtP analysis, LOS with Fresnel zone, 4G/5G band support.  
+- `> IMPACT:` Modular SaaS-ready prototype powering the **"Mapa das Torres"** platform.  
+- `> STACK:` Python · Simulation Engine · RF Propagation Models  
+
 ---
 
 ## 📂 All Repositories
