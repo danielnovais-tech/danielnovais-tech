@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="portifolio.png" alt="Portfolio" />
+</div>
+
 # 👋 Hi, I'm Daniel Novais  
 
 <div align="center">
