@@ -1,3 +1,9 @@
-Principal AI Architect — Next-Gen Autonomous RF & Network Planning Platform
+# Daniel Azevedo Novais
 
-    Architecting an open-source, AI-driven alternative to legacy RF planning tools (Atoll/Planet). Replaced heavy ray-tracing and expensive 3D GIS data with Physics-Informed Neural Networks (PINNs) and open elevation models, reducing propagation prediction compute costs by 90%+ while enabling real-time autonomous network tuning via Open RAN RIC integration.
+Fundador da [Telecom Tower Power](https://www.telecomtowerpower.com.br/), em Brasília-DF.
+
+A Telecom Tower Power trabalha com dados públicos da Anatel (MOSAICO) para rádio privativo, torres compartilhadas e triagem de RNI.
+
+- Site: https://www.telecomtowerpower.com.br/
+- Documentação: https://docs.telecomtowerpower.com.br/
+- Contato: daniel@telecomtowerpower.com.br
